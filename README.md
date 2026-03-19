@@ -1,7 +1,7 @@
 # Email Management AI Automation with N8N
 
-![Email Management Workflow](EmailManagement.JPG)
 ![Email Management System](EmailManagementSystem.JPG)
+![Email Management Workflow](EmailManagement.JPG)
 
 ## Overview
 
